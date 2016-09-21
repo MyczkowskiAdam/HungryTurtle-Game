@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player1
+comment1.params=scoreCounter1
+comment1.target=Player1(CounterP1)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ foundLettuce()
+comment4.params=
+comment4.target=void\ eatLettuce()
+comment5.params=
+comment5.target=boolean\ foundSnake()
+comment6.params=
+comment6.target=boolean\ foundHeart()
+comment7.params=
+comment7.target=void\ removeHeart()
+comment8.params=
+comment8.target=boolean\ foundBlock1()
+comment9.params=
+comment9.target=boolean\ foundBlock2()
+numComments=10

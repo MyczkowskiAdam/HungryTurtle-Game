@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Counter
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ YouWin()
+comment3.params=
+comment3.target=void\ addScore()
+comment4.params=
+comment4.target=void\ gameOver()
+comment5.params=
+comment5.target=void\ snakeHit()
+comment6.params=
+comment6.target=void\ addLife()
+numComments=7

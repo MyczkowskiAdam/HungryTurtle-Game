@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bug
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment3.params=
+comment3.target=boolean\ foundLettuce()
+comment4.params=
+comment4.target=void\ eatLettuce()
+comment5.params=
+comment5.target=boolean\ foundBlock1()
+comment6.params=
+comment6.target=boolean\ foundBlock2()
+numComments=7
